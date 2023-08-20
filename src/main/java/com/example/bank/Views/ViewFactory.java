@@ -1,2 +1,4 @@
-package com.example.bank.Views;public class ViewFactory {
+package com.example.bank.Views;
+
+public class ViewFactory {
 }

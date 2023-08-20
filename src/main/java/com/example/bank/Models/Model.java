@@ -1,2 +1,4 @@
-package com.example.bank.Models;public class Model {
+package com.example.bank.Models;
+
+public class Model {
 }

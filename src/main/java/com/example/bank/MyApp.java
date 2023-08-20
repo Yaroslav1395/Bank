@@ -1,2 +1,4 @@
-package com.example.bank;public class MyApp {
+package com.example.bank;
+
+public class MyApp {
 }
